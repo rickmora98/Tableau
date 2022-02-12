@@ -41,7 +41,7 @@ To examine some of the cleaned data files that were used and/or the data cleanin
 	- *"citi-bike-station-bikes.jpg"* <br>
 * **"Data Files"** (this folder contains some sample cleaned trip data files) <br>
 	- *"JC-202101-citibike-tripdata-cleaned.csv"*
-	- *"JC-20210s-citibike-tripdata-cleaned"*
+	- *"JC-202102-citibike-tripdata-cleaned"*
 	- *"station_information.csv"*
 	- *"station_information.json"*
 
