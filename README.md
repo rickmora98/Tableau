@@ -1,8 +1,6 @@
-# tableau-challenge 
+# Citibike Analytics (Tableau Demonstration)
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #18.<br>
-
-This assignment utilized Tableau to analyze and discover phenomena contained within data from New York City's citi bike program.
+This project utilized Tableau to analyze and discover phenomena contained within data from New York City's citi bike program.
 The data is publicly available in the form of large CSV files (some with over 3 million rows each) on their website.
 As each file contained only a single month's worth of trip information it was necessary to combine several together to uncover any meaningful information.
 This, however, presented several challenges:
@@ -45,11 +43,11 @@ To examine some of the cleaned data files that were used and/or the data cleanin
 	- *"station_information.csv"*
 	- *"station_information.json"*
 
-#### Note: <br>
+(Please do not delete, move, rename, or alter!)
 
-Please do not delete, move, rename, or alter any of these folders and/or files. <br>
-Thank you. <br>
-
-#### Submitted by: <br>
- Ricardo G. Mora, Jr.  02/12/2022
+#### Screenshots:
+<img src="Image Files/StationMap.jpg">
+<img src="Image Files/BusiestStations.jpg">
+<img src="Image Files/BusiestTimes.jpg">
+<img src="Image Files/FarLong.jpg">
  
