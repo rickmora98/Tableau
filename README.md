@@ -26,7 +26,7 @@ The phenomena that was uncovered was not unexpected:
 + The average trip time and duration is small (probably because riders are penalized for keeping a bike longer than 30 minutes).
 + The percentage of rentals by Pay Per Trip riders is small, but it steadily increases as the months get warmer.
 
-To examine the Tableau workbook, please click this link:  
+To examine the final analysis, access the Tableau workbook at the following link:  
 https://public.tableau.com/views/CitiBikeAnalytics_16433147918130/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 To examine some of the cleaned data files that were used and/or the data cleaning jupyter notebook, their locations in this repository are indicated in the tree below:
