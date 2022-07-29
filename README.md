@@ -1,4 +1,4 @@
-# Citibike Analytics (Tableau Demonstration)
+<h1> Citibike Analytics <br> (Tableau Demonstration) </h1>
 
 This project utilized Tableau to analyze and discover phenomena contained within data from New York City's citi bike program.
 The data is publicly available in the form of large CSV files (some with over 3 million rows each) on their website.
